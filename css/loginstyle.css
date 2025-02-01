@@ -1,0 +1,86 @@
+/*login form*/
+.login {
+    border: 1px solid black;
+    width: 400px;
+    height: 100%;
+    background: url('../img/login-bg.jpg');
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: visible;
+}
+
+form{
+    display: block;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(60%);
+    flex-direction: column;
+    display: flex;
+    gap: 5px ;
+    
+
+}
+
+.login_text {
+    font-weight: normal;
+    font-size: 24px;
+    text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    margin-top: 5px;
+    font-family: monospace;
+}
+
+label{
+    color: rgba(255, 255, 255, 0.8);
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-left: 10px;
+}
+
+.inp_field{
+    background: rgba(255, 255, 255, 0.8);
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    border: none;
+    margin:10px 0px;
+    color: black;
+
+
+}
+
+.login_bt{
+    background-color: #09d066;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 40px;
+    border: none;
+    margin: 40px 0px ;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+.sh_error{
+    height: 70px;
+    width: 300px;
+    background-color: #fa3c3c;
+    background: rgba(255, 0, 0, 0.7);
+    border-radius: 20px;
+    border: none;
+    padding-left: 15px;
+}
+
+.show_pass{
+    color: rgba(255, 255, 255, 0.8);
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-left: 10px;
+}
