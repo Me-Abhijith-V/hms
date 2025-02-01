@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>About</title>
+      <title>About Us</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -42,7 +42,7 @@
             <div class="col-md-6">
               <div class="about_taital">
                 <h4 class="about_text">About</h4>
-                <h1 class="highest_text">The Highest provide health care</h1>
+                <h1 class="highest_text">The Highest provide health care in the world</h1>
                 <p class="lorem_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposedIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed</p>
               </div>
             </div>
